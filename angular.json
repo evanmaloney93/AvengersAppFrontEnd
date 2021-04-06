@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LoginAndRegAppFrontEnd"
+    }
+  },
+  "defaultProject": "LoginAndRegAppFrontEnd",
+  "cli": {
+    "analytics": false
+  }
 }
